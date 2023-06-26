@@ -1,6 +1,6 @@
 :root {
     --Branco-principal: #FFFFFF;
-    --Cinza-secundario: #C0C0C0;
+    --Cinza-secundario: #dd2020da;
     --Azul-botão: #167BF7;
     --Cor-de-fundo: #00030C;
     --Fonte-principal: 'Inter';
@@ -145,7 +145,7 @@ body{
 }
 
 .lista__link a:active {
-    color: purple;
+    color: p;
 }
 
 .container__botao:hover {
